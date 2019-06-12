@@ -1,6 +1,8 @@
 # Make Up Your Mind
 
-Is D. Eisenhower's decision matrix. Made with Vue CLI.
+Made with Vue CLI and Tailwind CSS.
+
+This is my 'playground' code. Recently I've been messing around with ML5.js, a machine learning library to make TensorFlow.js easier to use.
 
 ## Project setup
 ```
