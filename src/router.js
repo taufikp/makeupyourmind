@@ -14,6 +14,11 @@ export default new Router({
       component: Home
     },
     {
+      path: '/ml5',
+      name: 'ml5',
+      component: () => import(/* webpackChunkName: "home" */ './views/ml5.vue')
+    },
+    {
       path: '/about',
       name: 'about',
       // route level code-splitting

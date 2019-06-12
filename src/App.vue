@@ -1,7 +1,8 @@
 <template>
   <div id="app">
     <div id="nav">
-      <router-link to="/">Home</router-link> |
+      <router-link to="/">Home</router-link>
+      <router-link to="/ml5">ML5.js demo</router-link>
       <router-link to="/about">About</router-link>
     </div>
     <div class="bg-red-100 border border-red-400 text-red-700 px-4 py-3 rounded relative" role="alert">
@@ -35,10 +36,10 @@ main {
   display: grid;
 }
 
-/*
 #nav {
   padding: 30px;
   a {
+    padding-left: 1rem;
     font-weight: bold;
     color: #2c3e50;
     &.router-link-exact-active {
@@ -46,5 +47,4 @@ main {
     }
   }
 }
-*/
 </style>

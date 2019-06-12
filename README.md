@@ -1,4 +1,6 @@
-# makeupyourmind
+# Make Up Your Mind
+
+Is D. Eisenhower's decision matrix. Made with Vue CLI.
 
 ## Project setup
 ```
